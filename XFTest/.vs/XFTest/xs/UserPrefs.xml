@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{5FB6425D-36D6-4EE8-9634-570FAE5CD4A0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XFTest/Views/Calendar.xaml">
+    <Files>
+      <File FileName="XFTest/Views/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="XFTest/Views/CleaningList.xaml.cs" Line="1" Column="1" />
+      <File FileName="XFTest/Views/CleaningList.xaml" Line="38" Column="241" />
+      <File FileName="XFTest/Views/Calendar.xaml" Line="127" Column="40" />
+      <File FileName="XFTest/ViewModels/MainPageViewModel.cs" Line="1" Column="1" />
+      <File FileName="XFTest/Views/MainPage.xaml.cs" Line="24" Column="14" />
+      <File FileName="XFTest/Views/Calendar.xaml.cs" Line="152" Column="12" />
+      <File FileName="XFTest/App.xaml.cs" Line="33" Column="82" />
+      <File FileName="XFTest/ViewModels/CleaningListViewModel.cs" Line="181" Column="43" />
+      <File FileName="XFTest/BoolToValueConverter.cs" Line="22" Column="10" />
+      <File FileName="XFTest/Models/CalendarModel.cs" Line="11" Column="60" />
+      <File FileName="XFTest/Models/CleaningList.cs" Line="1" Column="1" />
+      <File FileName="XFTest/Converters/BoolToColorConverter.cs" Line="18" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XFTest" expanded="True">
+            <Node name="XFTest" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Converters" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Calendar.xaml" expanded="True" selected="True" />
+                <Node name="CleaningList.xaml" expanded="True" />
+                <Node name="MainPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="XFTest.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XFTest.Android Xamarin.HotReload.UnhandledDeviceException.XFTest.Android.HideInfoBar="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
